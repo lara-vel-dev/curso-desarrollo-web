@@ -6,6 +6,8 @@
   </h1>
 </div>
 
+<img src="https://www.nita.edu.sa/images/thumbs/0001200_web-development-beginner.jpeg">
+
 <div>
   <h2>Tabla de Contenidos</h2>
   <ul>
@@ -17,10 +19,13 @@
   </ul>
 </div>
 
-<div>
+<div align="justify">
   <h2>
     Sobre este curso
   </h2>
+  <p>
+    Este curso está diseñado para brindar una introducción al mundo del desarrollo web, desde los conceptos fundamentales hasta la creación de páginas dinámicas. Se aprenderán los lenguajes esenciales para el desarrollo web, abarcando HTML, CSS, JavaScript, PHP, y como gestor de base de datos Postgresql. Este curso igual cuenta con una parte práctica, con proyectos y ejercicios que permiten a los participantes aplicar los conceptos aprendidos y reforzar el conocimiento. 
+  </p>
 </div>
 
 <div>
