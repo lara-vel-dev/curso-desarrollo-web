@@ -8,6 +8,13 @@
 
 <div>
   <h2>Tabla de Contenidos</h2>
+  <ul>
+    <li><a href="#----sobre-este-curso--">Sobre este curso</a></li>
+    <li><a href="#----tecnologías--">Tecnologías</a></li>
+    <li><a href="#-----------frontend--------------el-internet-------introducción-a-html-------introducción-a-css-------javascript-en-la-web------">Frontend</a></li>
+    <li><a href="#-----------backend---------------tema-1------">Backend</a></li>
+    <li><a href="#recursos">Recursos</a></li>
+  </ul>
 </div>
 
 <div>
