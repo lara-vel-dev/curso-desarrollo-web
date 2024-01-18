@@ -42,7 +42,7 @@
       <br>
       <p>🐥 <a href="https://github.com/lara-vel-dev/curso-desarrollo-web/tree/main/el-internet">El internet</a></p>
       <p>🐥 <a href="https://github.com/lara-vel-dev/curso-desarrollo-web/tree/main/intro-a-html">Introducción a HTML</a></p>
-      <p>🐥 <a href="">Introducción a CSS</a></p>
+      <p>🐥 <a href="https://github.com/lara-vel-dev/curso-desarrollo-web/tree/main/intro-a-css">Introducción a CSS</a></p>
       <p>🐥 <a href="https://github.com/lara-vel-dev/curso-desarrollo-web/tree/main/javascript-en-web">JavaScript en la web</a></p>
     </details>
   </h2>
