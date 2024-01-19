@@ -67,7 +67,7 @@
   <p>🐥 <a href="https://flukeout.github.io/">Practica selectores</a></p>
   <p>🐥 <a href="https://youtu.be/s95S1_vP-dQ?si=fA065-KGs6TOyUUH">Frontend vs Backend</a></p>
 <p>🐥 <a href="https://youtu.be/9Q2JDISDUe8?si=SNKy8oMKfq2PFm7m">Herramientas web</a></p>
-  
+<p>🐥 <a href="https://youtu.be/lv88bCi7eyg?si=ef_FlznpS7Ry5For">Extensiones para vscode</a></p>
 
-  
+
 </div>
