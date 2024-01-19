@@ -60,5 +60,7 @@
 
 <div>
   <h2>Recursos</h2>
-  <a href="https://www.w3schools.com/"></a>
+  <a href="https://www.w3schools.com/">Aprende web</a>
+  <a href="https://flexboxfroggy.com/">Practica flexbox</a>
+  <a href="https://flexboxfroggy.com/">Practica flexbox</a>
 </div>
