@@ -65,6 +65,7 @@
   <p>🐥 <a href="https://lenguajehtml.com/html/introduccion/tabla-periodica-html5/">Repasa HTML</a></p>
   <p>🐥 <a href="https://flexboxfroggy.com/">Practica flexbox</a></p>
   <p>🐥 <a href="https://flukeout.github.io/">Practica selectores</a></p>
+  <p>🐥 <a href="https://youtu.be/s95S1_vP-dQ?si=fA065-KGs6TOyUUH">Frontend vs Backend</a></p>
 
   
 
