@@ -61,6 +61,9 @@
 <div>
   <h2>Recursos</h2>
   <p><a href="https://www.w3schools.com/">Aprende web</a></p>
+  <p><a href="https://allthetags.com/">Etiquetas básicas</a></p>
   <p><a href="https://flexboxfroggy.com/">Practica flexbox</a></p>
   <p><a href="https://flukeout.github.io/">Practica selectores</a></p>
+
+  
 </div>
