@@ -69,6 +69,6 @@
 <p>🐥 <a href="https://youtu.be/9Q2JDISDUe8?si=SNKy8oMKfq2PFm7m">Herramientas web</a></p>
 <p>🐥 <a href="https://youtu.be/lv88bCi7eyg?si=ef_FlznpS7Ry5For">Extensiones para vscode</a></p>
 <p>🐥 <a href="https://youtu.be/wd1zx-X3388?si=9aDPNBdCBhYd5owt">Temas para vscode</a></p>
-
+<p>🐥 <a href="https://www.freecodecamp.org">Cursos para aprender web</a></p>
 
 </div>
